@@ -1,0 +1,24 @@
+*{
+    align-content:center;
+}
+.tarjeta {
+    margin:0px auto; 
+    box-sizing: border-box;
+    padding: 45px 20px 50px 20px;
+    width: 400px;
+    height: 200px;
+    background-color: yellow;
+    border-radius:20px;
+}
+.tarjeta img{
+    position:relative;
+    bottom:30px;
+    width:70px;
+    height:50px;   
+}
+.tarjeta input{
+    background-color: yellow;
+    border:0;
+    border-bottom:black thin solid;
+    height:20px;
+}
